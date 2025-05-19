@@ -122,7 +122,8 @@ The goal is to:
 | Medium Frequency   | 480            | 5.7                         |
 | Low Frequency      | 310            | 1.5                         |
 
-
+# Note
+I didn't need the users_customuser table, the aggregation was done with the owner_id
 
 
 
